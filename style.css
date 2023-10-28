@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif,Arial, Helvetica;
+}
+
+.sidebar{
+    border: 1px solid #dadada;
+    height: 50rem;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 1rem;
+    padding: 2rem 0rem 2rem 0rem;
+    width: 12rem;
+    line-height: 35px;
+}
+
+.sidebar>h3{
+    text-transform: uppercase;
+    color: blueviolet;
+    padding: 0rem 0.5rem 0rem 0.5rem;
+    font-size: 22px;
+    word-spacing: 2px;
+}
+
+.sb-item{
+    padding: 0.5rem;
+
+}
+
+.sb-item:hover{
+    font-size: 600;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}

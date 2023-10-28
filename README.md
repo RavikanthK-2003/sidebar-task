@@ -1,2 +1,3 @@
 # sidebar-task
-Creating a Sidebar.
+* Creating a Sidebar.
+* Adding style.css.
