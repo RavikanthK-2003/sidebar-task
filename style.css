@@ -17,13 +17,13 @@ body{
     text-transform: uppercase;
     color: blueviolet;
     padding: 0rem 0.5rem 0rem 0.5rem;
-    font-size: 22px;
+    font-size: 26px;
     word-spacing: 2px;
 }
 
 .sb-item{
     padding: 0.5rem;
-
+    font-size:large;
 }
 
 .sb-item:hover{
